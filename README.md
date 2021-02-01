@@ -20,4 +20,4 @@
 ## remote
 - git add remote remote name
 ## remote status
--git remote -v
+- git remote -v
