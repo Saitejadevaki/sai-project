@@ -23,3 +23,7 @@
 - git remote -v
 ## cloning existing respitrory
 - git clone "repo link" foldername
+## undoing changes
+- git restoore file name(uncommited changes)
+- git revert id(commited changes)
+- git reset id(reseting committes)
