@@ -21,3 +21,5 @@
 - git add remote remote name
 ## remote status
 - git remote -v
+## cloning existing respitrory
+- git clone "repo link" foldername
